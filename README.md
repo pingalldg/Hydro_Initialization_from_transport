@@ -1,6 +1,4 @@
-# ProfMa2
-
-MUSIC Hydro requires initial energy density profile in (x,y,eta_s) grids.
+MUSIC Hydro requires an initial energy density profile in (x,y,eta_s) grids.
 To run  
 ====================================================================
 ||                                                                                                                                                      ||
