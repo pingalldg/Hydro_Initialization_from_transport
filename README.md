@@ -1,13 +1,13 @@
 
-******************************************************************************************
-MUSIC Hydro requires an initial energy density profile in (x,y,eta_s) grids.
-To run  
-====================================================================
-||                                                                                                                                                      ||
-|| gfortran main.f90 ampt2hydro1.f90 ampt2hydro2.f90 ampteigen.f90 spline.f90 -llapack -lblas  ||
-||                                                                                                                                                      ||
-====================================================================
-*******************!!Lapack library is needed!! sudo apt-get install *********************
+!******************************************************************************************
+!MUSIC Hydro requires an initial energy density profile in (x,y,eta_s) grids.
+!To run  
+!====================================================================
+!||                                                                                                                                                      ||
+!|| gfortran main.f90 ampt2hydro1.f90 ampt2hydro2.f90 ampteigen.f90 spline.f90 -llapack -lblas  ||
+!||                                                                                                                                                      ||
+!====================================================================
+!*******************!!Lapack library is needed!! sudo apt-get install *********************
 
 
 In the "input_file.dat" there are 12 entries:
